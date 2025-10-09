@@ -4,7 +4,12 @@
   "timestamp": "2022-01-27T14:33:26.183301",
   "tokens": [
     [
-      
+      {
+        "address": "0xC326D1505ce0492276f646B03FE460c43A892185",
+        "name": "U$D",
+        "symbol": "U$D",
+        "decimals": 6
+      }
     ]
   ],
   "version": {
