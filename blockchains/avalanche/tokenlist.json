@@ -177,6 +177,12 @@
         "name": "Bensi Box Token",
         "symbol": "BENSI",
         "decimals": 18
+      },
+      {
+        "address": "0x40146E96EE5297187022D1ca62A3169B5e45B0a4",
+        "name": "Dimish",
+        "symbol": "DISH",
+        "decimals": 18
       }
     ]
   ],
