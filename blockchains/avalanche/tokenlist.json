@@ -123,6 +123,12 @@
         "name": "HEFE",
         "symbol": "HEFE",
         "decimals": 18
+      },
+      {
+        "address": "0x67ea3abd5CeE0b99D743155051c191B09135f93C",
+        "name": "Aesyx Dollar",
+        "symbol": "AXD",
+        "decimals": 18
       }
     ]
   ],
