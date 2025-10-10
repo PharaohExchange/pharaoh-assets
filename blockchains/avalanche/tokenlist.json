@@ -339,6 +339,12 @@
         "name": "Bellum",
         "symbol": "BELL",
         "decimals": 18
+      },
+      {
+        "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+        "name": "BENQI",
+        "symbol": "QI",
+        "decimals": 18
       }
     ]
   ],
