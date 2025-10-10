@@ -39,6 +39,12 @@
         "name": "Euro Coin",
         "symbol": "EURC",
         "decimals": 6
+      },
+      {
+        "address": "0xb2F85b7AB3c2b6f62DF06dE6aE7D09c010a5096E",
+        "name": "XSGD",
+        "symbol": "XSGD",
+        "decimals": 6
       }
     ]
   ],
