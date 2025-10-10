@@ -255,6 +255,12 @@
         "name": "Balanced Dollar",
         "symbol": "bnUSD",
         "decimals": 18
+      },
+      {
+        "address": "0x432d38F83a50EC77C409D086e97448794cf76dCF",
+        "name": "Heresy",
+        "symbol": "HERESY",
+        "decimals": 18
       }
     ]
   ],
