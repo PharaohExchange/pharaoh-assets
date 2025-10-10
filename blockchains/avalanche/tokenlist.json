@@ -321,6 +321,12 @@
         "name": "MOANI",
         "symbol": "MOANI",
         "decimals": 18
+      },
+      {
+        "address": "0x32f0c28Be6a6ac5D3b471278b77f6971a3141348",
+        "name": "Fate",
+        "symbol": "FATE",
+        "decimals": 18
       }
     ]
   ],
