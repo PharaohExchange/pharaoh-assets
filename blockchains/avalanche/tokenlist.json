@@ -369,6 +369,12 @@
         "name": "Juicy",
         "symbol": "JUICY",
         "decimals": 18
+      },
+      {
+        "address": "0xAcFb898Cff266E53278cC0124fC2C7C94C8cB9a5",
+        "name": "AVAX HAS NO CHILL",
+        "symbol": "NOCHILL",
+        "decimals": 18
       }
     ]
   ],
