@@ -93,6 +93,12 @@
         "name": "Bitcoin",
         "symbol": "BTC.b",
         "decimals": 8
+      },
+      {
+        "address": "0xFFFF003a6BAD9b743d658048742935fFFE2b6ED7",
+        "name": "yellow ket",
+        "symbol": "KET",
+        "decimals": 18
       }
     ]
   ],
