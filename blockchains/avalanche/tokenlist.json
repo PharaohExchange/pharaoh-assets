@@ -207,6 +207,12 @@
         "name": "supercycle (real)",
         "symbol": "SUPER",
         "decimals": 18
+      },
+      {
+        "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+        "name": "TetherToken",
+        "symbol": "USDt",
+        "decimals": 6
       }
     ]
   ],
