@@ -9,6 +9,12 @@
         "name": "U$D",
         "symbol": "U$D",
         "decimals": 6
+      },
+      {
+        "address": "0x800BdCE6CaA3fE2bfDB738383321278536e258f8",
+        "name": "Wrapped Thought",
+        "symbol": "WTHT",
+        "decimals": 8
       }
     ]
   ],
