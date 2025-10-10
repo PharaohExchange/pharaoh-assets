@@ -231,6 +231,12 @@
         "name": "Unity",
         "symbol": "UTY",
         "decimals": 18
+      },
+      {
+        "address": "0x7698A5311DA174A95253Ce86C21ca7272b9B05f8",
+        "name": "Wink",
+        "symbol": "WINK",
+        "decimals": 18
       }
     ]
   ],
