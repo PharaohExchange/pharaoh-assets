@@ -45,6 +45,12 @@
         "name": "XSGD",
         "symbol": "XSGD",
         "decimals": 6
+      },
+      {
+        "address": "0xB8d7710f7d8349A506b75dD184F05777c82dAd0C",
+        "name": "ArenaToken",
+        "symbol": "ARENA",
+        "decimals": 18
       }
     ]
   ],
