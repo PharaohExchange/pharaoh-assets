@@ -117,6 +117,12 @@
         "name": "Pharaoh",
         "symbol": "PHAR",
         "decimals": 18
+      },
+      {
+        "address": "0x18E3605B13F10016901eAC609b9E188CF7c18973",
+        "name": "HEFE",
+        "symbol": "HEFE",
+        "decimals": 18
       }
     ]
   ],
