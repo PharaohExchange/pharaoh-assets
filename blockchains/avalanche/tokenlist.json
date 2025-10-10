@@ -171,6 +171,12 @@
         "name": "xPHAR",
         "symbol": "xPHAR",
         "decimals": 18
+      },
+      {
+        "address": "0x00697F5F6dc2CA0A17e6c89bCcd1173A61eA24a6",
+        "name": "Bensi Box Token",
+        "symbol": "BENSI",
+        "decimals": 18
       }
     ]
   ],
