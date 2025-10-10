@@ -357,6 +357,12 @@
         "name": "COQINU",
         "symbol": "COQ",
         "decimals": 18
+      },
+      {
+        "address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
+        "name": "GMX",
+        "symbol": "GMX",
+        "decimals": 18
       }
     ]
   ],
