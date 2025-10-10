@@ -141,6 +141,12 @@
         "name": "Wrapped Ether",
         "symbol": "WETH.e",
         "decimals": 18
+      },
+      {
+        "address": "0x26deBD39D5eD069770406FCa10A0E4f8d2c743eB",
+        "name": "GUNZ",
+        "symbol": "GUN",
+        "decimals": 18
       }
     ]
   ],
