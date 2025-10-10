@@ -225,6 +225,12 @@
         "name": "XAUt0",
         "symbol": "XAUt0",
         "decimals": 6
+      },
+      {
+        "address": "0xDBc5192A6B6FfEe7451301bb4ec312f844F02B4A",
+        "name": "Unity",
+        "symbol": "UTY",
+        "decimals": 18
       }
     ]
   ],
