@@ -147,6 +147,12 @@
         "name": "GUNZ",
         "symbol": "GUN",
         "decimals": 18
+      },
+      {
+        "address": "0x1a4F71B0Ff3C22540887bcf83b50054a213c673d",
+        "name": "Wrapped Backed MicroStrategy Inc",
+        "symbol": "wbMSTR",
+        "decimals": 18
       }
     ]
   ],
