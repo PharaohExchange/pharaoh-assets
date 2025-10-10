@@ -183,6 +183,12 @@
         "name": "Dimish",
         "symbol": "DISH",
         "decimals": 18
+      },
+      {
+        "address": "0x4CB85e39d5622Af604405077A589c3078F3A59b2",
+        "name": "CROC",
+        "symbol": "CROC",
+        "decimals": 18
       }
     ]
   ],
