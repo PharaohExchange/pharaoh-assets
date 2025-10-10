@@ -111,6 +111,12 @@
         "name": "Pharaoh Liquid Staking Token",
         "symbol": "p33",
         "decimals": 18
+      },
+      {
+        "address": "0x13A466998Ce03Db73aBc2d4DF3bBD845Ed1f28E7",
+        "name": "Pharaoh",
+        "symbol": "PHAR",
+        "decimals": 18
       }
     ]
   ],
