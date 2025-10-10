@@ -129,6 +129,12 @@
         "name": "Aesyx Dollar",
         "symbol": "AXD",
         "decimals": 18
+      },
+      {
+        "address": "0x580d5E1399157FD0d58218b7A514b60974F2AB01",
+        "name": "Staked UTY",
+        "symbol": "yUTY",
+        "decimals": 18
       }
     ]
   ],
