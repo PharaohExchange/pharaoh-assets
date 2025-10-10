@@ -165,6 +165,12 @@
         "name": "Staked AVAX",
         "symbol": "sAVAX",
         "decimals": 18
+      },
+      {
+        "address": "0xE8164Ea89665DAb7a553e667F81F30CfDA736B9A",
+        "name": "xPHAR",
+        "symbol": "xPHAR",
+        "decimals": 18
       }
     ]
   ],
