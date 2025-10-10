@@ -105,6 +105,12 @@
         "name": "FREAK Anon",
         "symbol": "FREAK",
         "decimals": 18
+      },
+      {
+        "address": "0x26e9dbe75aed331E41272BEcE932Ff1B48926Ca9",
+        "name": "Pharaoh Liquid Staking Token",
+        "symbol": "p33",
+        "decimals": 18
       }
     ]
   ],
