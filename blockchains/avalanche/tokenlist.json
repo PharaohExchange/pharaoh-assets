@@ -267,6 +267,12 @@
         "name": "HeyAnon",
         "symbol": "Anon",
         "decimals": 18
+      },
+      {
+        "address": "0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0",
+        "name": "Colony Avalanche Index",
+        "symbol": "CAI",
+        "decimals": 18
       }
     ]
   ],
