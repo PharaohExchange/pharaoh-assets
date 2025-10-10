@@ -279,6 +279,12 @@
         "name": "Blub",
         "symbol": "BLUB",
         "decimals": 18
+      },
+      {
+        "address": "0xfd2c2A98009d0cBed715882036e43d26C4289053",
+        "name": "avBTC",
+        "symbol": "avBTC",
+        "decimals": 18
       }
     ]
   ],
