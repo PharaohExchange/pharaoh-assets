@@ -15,6 +15,12 @@
         "name": "Wrapped Thought",
         "symbol": "WTHT",
         "decimals": 8
+      },
+      {
+        "address": "0x297731Eb3CAB3834525fc9Ea061fd71d8f4645C9",
+        "name": "BLAZE",
+        "symbol": "BLAZE",
+        "decimals": 18
       }
     ]
   ],
