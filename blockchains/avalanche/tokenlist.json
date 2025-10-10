@@ -327,6 +327,12 @@
         "name": "Fate",
         "symbol": "FATE",
         "decimals": 18
+      },
+      {
+        "address": "0x03569CC076654F82679C4BA2124D64774781B01D",
+        "name": "BOLD Stablecoin",
+        "symbol": "BOLD",
+        "decimals": 18
       }
     ]
   ],
