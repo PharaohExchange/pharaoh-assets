@@ -249,6 +249,12 @@
         "name": "Yak Token",
         "symbol": "YAK",
         "decimals": 18
+      },
+      {
+        "address": "0xdBDd50997361522495EcFE57EBb6850dA0E4C699",
+        "name": "Balanced Dollar",
+        "symbol": "bnUSD",
+        "decimals": 18
       }
     ]
   ],
