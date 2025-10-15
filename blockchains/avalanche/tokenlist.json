@@ -393,6 +393,12 @@
         "name": "LAMBO",
         "symbol": "LAMBO",
         "decimals": 18
+      },
+      {
+        "address": "0x98B172A09102869adD73116FC92A0A60BFF4778F",
+        "name": "APEX",
+        "symbol": "APEX",
+        "decimals": 18
       }
     ]
   ],
