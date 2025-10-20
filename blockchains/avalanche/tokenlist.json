@@ -411,6 +411,12 @@
         "name": "Nobs saved Avax",
         "symbol": "NOBS",
         "decimals": 18
+      },
+      {
+        "address": "0x395Ded77F105BBEf099f8add6Eb4f238d1fB49bd",
+        "name": "Turbo Rush",
+        "symbol": "tRUSH",
+        "decimals": 18
       }
     ]
   ],
