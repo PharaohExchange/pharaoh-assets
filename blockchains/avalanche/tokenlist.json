@@ -417,6 +417,12 @@
         "name": "Turbo Rush",
         "symbol": "tRUSH",
         "decimals": 18
+      },
+      {
+        "address": "0x47f975cD652eB0e25464070fB7c9998DA8e3bc70",
+        "name": "NOTHING",
+        "symbol": "NOTHING",
+        "decimals": 18
       }
     ]
   ],
