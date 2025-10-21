@@ -423,6 +423,12 @@
         "name": "NOTHING",
         "symbol": "NOTHING",
         "decimals": 18
+      },
+      {
+        "address": "0x5C09A9cE08C4B332Ef1CC5f7caDB1158C32767Ce",
+        "name": "Fantom Bomb",
+        "symbol": "fBOMB",
+        "decimals": 18
       }
     ]
   ],
