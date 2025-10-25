@@ -441,6 +441,12 @@
         "name": "JPY Coin",
         "symbol": "JPYC",
         "decimals": 18
+      },
+      {
+        "address": "0xf8B22737CbfeA137f9B2737D1DAb2a8a21608ceE",
+        "name": "AgentXYZ",
+        "symbol": "TRADER",
+        "decimals": 18
       }
     ]
   ],
