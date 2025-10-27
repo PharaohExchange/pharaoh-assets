@@ -447,6 +447,12 @@
         "name": "AgentXYZ",
         "symbol": "TRADER",
         "decimals": 18
+      },
+      {
+        "address": "0xEE16AaaC10195718Ba143E7Ed5D6c55Fedfa42E7",
+        "name": "Blackhole Strategy AVAX/USDC",
+        "symbol": "BLKSTR",
+        "decimals": 18
       }
     ]
   ],
