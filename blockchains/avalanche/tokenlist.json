@@ -453,6 +453,12 @@
         "name": "Blackhole Strategy AVAX/USDC",
         "symbol": "BLKSTR",
         "decimals": 18
+      },
+      {
+        "address": "0x4C515fb7Ddb31Ef5Cb53895B614e6dbf356f0041",
+        "name": "SEEDS",
+        "symbol": "SEEDS",
+        "decimals": 18
       }
     ]
   ],
