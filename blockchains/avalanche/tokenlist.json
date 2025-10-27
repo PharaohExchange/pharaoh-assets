@@ -459,6 +459,12 @@
         "name": "SEEDS",
         "symbol": "SEEDS",
         "decimals": 18
+      },
+      {
+        "address": "0x58F075fFCE3b299ff81966a24063b357455a7dDf",
+        "name": "AVAX Drama",
+        "symbol": "DRAMA",
+        "decimals": 18
       }
     ]
   ],
