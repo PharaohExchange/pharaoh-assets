@@ -465,6 +465,12 @@
         "name": "AVAX Drama",
         "symbol": "DRAMA",
         "decimals": 18
+      },
+      {
+        "address": "0x0256B279D973C8d687264AC3eB36bE09232D4474",
+        "name": "MyStandard",
+        "symbol": "MYST",
+        "decimals": 18
       }
     ]
   ],
