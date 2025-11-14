@@ -477,6 +477,12 @@
         "name": "AuTistiC BoYs CLub",
         "symbol": "ABC",
         "decimals": 18
+      },
+      {
+        "address": "0x2aB6e7599372EbAeDC0329379a9d97402a7BcaDD",
+        "name": "SALSTR",
+        "symbol": "Salvor Strategy",
+        "decimals": 18
       }
     ]
   ],
