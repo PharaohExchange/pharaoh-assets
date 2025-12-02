@@ -495,6 +495,12 @@
         "name": "Staked avUSD",
         "symbol": "savUSD",
         "decimals": 18
+      },
+      {
+        "address": "0x27f6c8289550fCE67f6B50BeD1F519966aFE5287",
+        "name": "tGBP",
+        "symbol": "tGBP",
+        "decimals": 18
       }
     ]
   ],
