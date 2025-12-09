@@ -501,6 +501,12 @@
         "name": "tGBP",
         "symbol": "tGBP",
         "decimals": 18
+      },
+      {
+        "address": "0x9728dB5817D51CCec8605f97fBC598302DDa4F66",
+        "name": "FortBlockGames",
+        "symbol": "FBG",
+        "decimals": 18
       }
     ]
   ],
