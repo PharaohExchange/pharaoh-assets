@@ -507,6 +507,12 @@
         "name": "FortBlockGames",
         "symbol": "FBG",
         "decimals": 18
+      },
+      {
+        "address": "0x635d08c0E2FF1fa2F19f89dB3552C7aB4158AF29",
+        "name": "Bears and Salmon",
+        "symbol": "BANDS",
+        "decimals": 18
       }
     ]
   ],
