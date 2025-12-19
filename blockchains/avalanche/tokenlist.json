@@ -513,6 +513,12 @@
         "name": "Bears and Salmon",
         "symbol": "BANDS",
         "decimals": 18
+      },
+      {
+        "address": "0x14A84F1a61cCd7D1BE596A6cc11FE33A36Bc1646",
+        "name": "Treehouse AVAX",
+        "symbol": "tAVAX",
+        "decimals": 18
       }
     ]
   ],
