@@ -519,6 +519,12 @@
         "name": "Treehouse AVAX",
         "symbol": "tAVAX",
         "decimals": 18
+      },
+      {
+        "address": "0xDf50aD73b92C758bBF94869b4B7b9128bBe4a475",
+        "name": "Cryptopia123",
+        "symbol": "TOPIA",
+        "decimals": 18
       }
     ]
   ],
