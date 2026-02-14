@@ -519,6 +519,12 @@
         "name": "Treehouse AVAX",
         "symbol": "tAVAX",
         "decimals": 18
+      },
+      {
+        "address": "0xBa5444409257967E5E50b113C395A766B0678C03",
+        "name": "Hash Cash",
+        "symbol": "hCASH",
+        "decimals": 18
       }
     ]
   ],
