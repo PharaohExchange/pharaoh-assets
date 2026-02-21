@@ -531,6 +531,12 @@
         "name": "WinterStelth",
         "symbol": "WS",
         "decimals": 6
+      },
+	  {
+        "address": "0x5cB33791453C4B6DA99ff620A25031E784328e79",
+        "name": "Wind Cash",
+        "symbol": "WIND",
+        "decimals": 18
       }
     ]
   ],
