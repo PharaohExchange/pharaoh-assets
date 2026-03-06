@@ -537,6 +537,12 @@
         "name": "APIX",
         "symbol": "APIX",
         "decimals": 18
+      },
+      {
+        "address": "0x4Afc7838167b77530278483c3d8c1fFe698a912E",
+        "name": "Balln Chikn ",
+        "symbol": "Balln",
+        "decimals": 18
       }
     ]
   ],
