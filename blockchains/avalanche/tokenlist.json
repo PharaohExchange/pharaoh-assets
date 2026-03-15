@@ -549,6 +549,12 @@
         "name": "USD Coin",
         "symbol": "USDC.e",
         "decimals": 6
+      },
+      {
+        "address": "0x7d46b648Ab5aa1966F66a22d0D43f15CCE1b2338",
+        "name": "Climate Index Coin",
+        "symbol": "CLX",
+        "decimals": 18
       }
     ]
   ],
