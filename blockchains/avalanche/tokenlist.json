@@ -549,6 +549,12 @@
         "name": "USD Coin",
         "symbol": "USDC.e",
         "decimals": 6
+      },
+      {
+        "address": "0xBA515304d8153c4b162dC79f867E152DF9c127eb",
+        "name": "Unity",
+        "symbol": "UTY",
+        "decimals": 18
       }
     ]
   ],
