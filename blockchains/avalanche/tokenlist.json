@@ -555,6 +555,12 @@
         "name": "Unity",
         "symbol": "UTY",
         "decimals": 18
+      },
+      {
+        "address": "0xBa515EEd0119aCB7CFE8fAb3ACD6b362f3ed5319",
+        "name": "Staked UTY",
+        "symbol": "yUTY",
+        "decimals": 18
       }
     ]
   ],
