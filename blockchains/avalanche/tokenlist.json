@@ -579,6 +579,12 @@
         "name": "MXNB",
         "symbol": "MXNB",
         "decimals": 6
+      },
+      {
+        "address": "0x634608ed64c61CA9e741F8095193c0bFa0FA19Cc",
+        "name": "Solana",
+        "symbol": "SOL",
+        "decimals": 18
       }
     ]
   ],
