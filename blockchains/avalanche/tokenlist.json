@@ -585,6 +585,12 @@
         "name": "Solana",
         "symbol": "SOL",
         "decimals": 18
+      },
+      {
+        "address": "0x1A31A8fD8BACB64b32dBcdcF5b2215f58Baf70c1",
+        "name": "Gator Dont Play ",
+        "symbol": "GATOR",
+        "decimals": 18
       }
     ]
   ],
