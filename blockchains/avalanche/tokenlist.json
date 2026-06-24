@@ -221,12 +221,6 @@
         "decimals": 18
       },
       {
-        "address": "0xDEc933e2392AD908263e70A386fbF34e703Ffe8F",
-        "name": "Wrapped Backed Coinbase Global",
-        "symbol": "wbCOIN",
-        "decimals": 18
-      },
-      {
         "address": "0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7",
         "name": "Yak Token",
         "symbol": "YAK",
