@@ -573,6 +573,12 @@
         "name": "Cryptopia123",
         "symbol": "TOPIA",
         "decimals": 18
+      },
+      {
+        "address": "0x130966628846BFd36ff31a822705796e8cb8C18D",
+        "name": "Magic Internet Money",
+        "symbol": "MIM",
+        "decimals": 18
       }
     ]
   ],
