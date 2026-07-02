@@ -585,6 +585,12 @@
         "name": "Beam",
         "symbol": "BEAM",
         "decimals": 18
+      },
+      {
+        "address": "0x093783055F9047C2BfF99c4e414501F8A147bC69",
+        "name": "Dexalot Token",
+        "symbol": "ALOT",
+        "decimals": 18
       }
     ]
   ],
