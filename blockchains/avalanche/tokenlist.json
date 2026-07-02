@@ -597,6 +597,12 @@
         "name": "Avalaunch",
         "symbol": "XAVA",
         "decimals": 18
+      },
+      {
+        "address": "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6",
+        "name": "Colony Token",
+        "symbol": "CLY",
+        "decimals": 18
       }
     ]
   ],
