@@ -603,6 +603,12 @@
         "name": "Colony Token",
         "symbol": "CLY",
         "decimals": 18
+      },
+      {
+        "address": "0x69260B9483F9871ca57f81A90D91E2F96c2Cd11d",
+        "name": "GoGoPool Protocol",
+        "symbol": "GGP",
+        "decimals": 18
       }
     ]
   ],
