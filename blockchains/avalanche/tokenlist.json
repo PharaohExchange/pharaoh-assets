@@ -609,6 +609,12 @@
         "name": "GoGoPool Protocol",
         "symbol": "GGP",
         "decimals": 18
+      },
+      {
+        "address": "0x5DDc8d968a94cf95CfeB7379F8372d858B9C797d",
+        "name": "WOLFI",
+        "symbol": "WOLFI",
+        "decimals": 18
       }
     ]
   ],
