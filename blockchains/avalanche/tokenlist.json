@@ -615,6 +615,12 @@
         "name": "WOLFI",
         "symbol": "WOLFI",
         "decimals": 18
+      },
+      {
+        "address": "0x5eDAF7FA88F3024a43C86dB86D4a04989DCa340e",
+        "name": "Roe Token",
+        "symbol": "ROE",
+        "decimals": 18
       }
     ]
   ],
