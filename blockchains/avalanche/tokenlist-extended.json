@@ -1,12 +1,20 @@
 {
-    "name": "Pharaoh: Token List",
-    "logoURI": "",
-    "timestamp": "2022-01-30T13:48:32.500787",
-    "tokens": [
-    ],
-    "version": {
-        "major": 6,
-        "minor": 0,
-        "patch": 0
-    }
+  "name": "Pharaoh: Token List",
+  "logoURI": "",
+  "timestamp": "2022-01-30T13:48:32.500787",
+  "tokens": [
+    [
+      {
+        "address": "0xD049D14a11b2D8F256EDb482653F429EE82723ba",
+        "name": "Swamp",
+        "symbol": "SWAMP",
+        "decimals": 18
+      }
+    ]
+  ],
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 0
+  }
 }
