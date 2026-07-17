@@ -621,6 +621,12 @@
         "name": "Roe Token",
         "symbol": "ROE",
         "decimals": 18
+      },
+      {
+        "address": "0xD049D14a11b2D8F256EDb482653F429EE82723ba",
+        "name": "Swamp",
+        "symbol": "SWAMP",
+        "decimals": 18
       }
     ]
   ],
