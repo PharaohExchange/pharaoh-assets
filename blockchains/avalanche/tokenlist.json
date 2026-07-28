@@ -621,6 +621,12 @@
         "name": "Roe Token",
         "symbol": "ROE",
         "decimals": 18
+      },
+      {
+        "address": "0xb4b05dCd9DC28728F8AABCc28bb9D8c6623714F1",
+        "name": "Lite Hash",
+        "symbol": "LITE",
+        "decimals": 18
       }
     ]
   ],
