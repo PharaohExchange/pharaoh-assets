@@ -627,6 +627,12 @@
         "name": "Lite Hash",
         "symbol": "LITE",
         "decimals": 18
+      },
+      {
+        "address": "0x694200a68B18232916353250955bE220e88c5cBB",
+        "name": "Kovin Segnocchi",
+        "symbol": "KOVIN",
+        "decimals": 18
       }
     ]
   ],
