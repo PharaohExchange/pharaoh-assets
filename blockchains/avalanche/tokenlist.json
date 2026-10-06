@@ -639,6 +639,12 @@
         "name": "Bonez",
         "symbol": "BNZ",
         "decimals": 18
+      },
+      {
+        "address": "0x22683BbaDD01473969F23709879187705a253763",
+        "name": "Lil Coq",
+        "symbol": "LIL",
+        "decimals": 18
       }
     ]
   ],
