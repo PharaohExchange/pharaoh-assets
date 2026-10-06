@@ -645,6 +645,12 @@
         "name": "Lil Coq",
         "symbol": "LIL",
         "decimals": 18
+      },
+      {
+        "address": "0xf0549FE8C622fe46e93eFcAE8A1A1c3c9EbceC4A",
+        "name": "Apertum APTM",
+        "symbol": "aAPTM",
+        "decimals": 18
       }
     ]
   ],
