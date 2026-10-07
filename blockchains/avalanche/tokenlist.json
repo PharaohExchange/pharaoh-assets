@@ -651,6 +651,12 @@
         "name": "Where Is Malek",
         "symbol": "WHEREMALEK",
         "decimals": 18
+      },
+      {
+        "address": "0x5f7fab9B23f242666925254Db7a9AcEf4d52AB33",
+        "name": "Avalanche PONZU",
+        "symbol": "avaxPONZU",
+        "decimals": 8
       }
     ]
   ],
