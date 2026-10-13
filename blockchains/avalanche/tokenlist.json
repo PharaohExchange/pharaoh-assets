@@ -657,6 +657,12 @@
         "name": "Avalanche PONZU",
         "symbol": "avaxPONZU",
         "decimals": 8
+      },
+      {
+        "address": "0xD049D14a11b2D8F256EDb482653F429EE82723ba",
+        "name": "Swamp Gold",
+        "symbol": "SWAMP",
+        "decimals": 18
       }
     ]
   ],
