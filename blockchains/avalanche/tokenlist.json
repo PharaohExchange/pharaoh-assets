@@ -681,6 +681,12 @@
         "name": "AVADAQ",
         "symbol": "ADAQ",
         "decimals": 18
+      },
+      {
+        "address": "0x97dD6825Bb949A3F51c17172C6cD7685D7b52D41",
+        "name": "Peak CAT",
+        "symbol": "PCAT",
+        "decimals": 18
       }
     ]
   ],
