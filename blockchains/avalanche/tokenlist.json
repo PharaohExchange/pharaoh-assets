@@ -675,6 +675,12 @@
         "name": "Peak",
         "symbol": "PEAK",
         "decimals": 18
+      },
+      {
+        "address": "0x9a174160148cEc7Ca62dd7b44849E7fccE4891b9",
+        "name": "AVADAQ",
+        "symbol": "ADAQ",
+        "decimals": 18
       }
     ]
   ],
