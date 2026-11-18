@@ -669,6 +669,12 @@
         "name": "Apertum APTM",
         "symbol": "aAPTM",
         "decimals": 18
+      },
+      {
+        "address": "0xe916BeB9ADdfEcC2c7C12C241d8EC65e0c55897F",
+        "name": "Peak",
+        "symbol": "PEAK",
+        "decimals": 18
       }
     ]
   ],
